@@ -1,0 +1,4 @@
+
+// client ID: lJC8glEszR5qfHZ1xK38mQ
+
+const apiKey = 'NiPLF_oE7B3fa5rAuA-8b9RYMji6k6KEAhLrkPddwqUPG0BeldtxZbJPES-drSyrT9Vbyo0Px9Zwtqt1XJZBwEgXdY_ZTRUCK0OF97dFdAW1n9VahIE0N7kGjtXqW3Yx'
